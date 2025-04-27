@@ -1,6 +1,6 @@
-# C++ Basics Repository
+# C++ Fundamentals Repository
 
-Welcome to the **C++ Basics** repository! This repo contains a collection of basic C++ code examples and explanations on fundamental concepts. Whether you're a beginner or just need a quick reference, you'll find simple, easy-to-understand examples for various topics in C++ programming.
+Welcome to the **C++ Fundamentals** repository! This repo contains a collection of basic C++ code examples and explanations on fundamental concepts. Whether you're a beginner or just need a quick reference, you'll find simple, easy-to-understand examples for various topics in C++ programming.
 
 ## Topics Covered:
 1. [Hello World](01_hello-world/): Introduction to basic output in C++.
@@ -17,7 +17,7 @@ Welcome to the **C++ Basics** repository! This repo contains a collection of bas
 ## How to Use:
 - Clone the repository to your local machine:
   ```bash
-  git clone https://github.com/your-sudoyasir/cpp-fundamentals.git
+  git clone https://github.com/sudoyasir/cpp-fundamentals.git
   ```
 - Navigate to any of the topic folders to find the code and corresponding explanations in the `README.md` files.
 - Use a C++ compiler (like g++) to compile and run the `.cpp` files.
