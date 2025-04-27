@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/y451r/Documents/GitHub/cpp-fundamentals/1_hello-world",
-      "program": "c:/Users/y451r/Documents/GitHub/cpp-fundamentals/1_hello-world/build/Debug/outDebug",
+      "cwd": "c:/Users/y451r/Documents/GitHub/cpp-fundamentals/01_hello-world",
+      "program": "c:/Users/y451r/Documents/GitHub/cpp-fundamentals/01_hello-world/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
