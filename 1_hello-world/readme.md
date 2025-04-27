@@ -11,3 +11,4 @@ It simply displays the text `Hello, World!` on the console.
 - `return 0;`: Ends the program successfully.
 
 ## Output:
+Hello, World!
